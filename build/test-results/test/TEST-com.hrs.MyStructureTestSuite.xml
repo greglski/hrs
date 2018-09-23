@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hrs.MyStructureTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-23T13:41:24" hostname="T520-Lenovo" time="0.007">
+  <properties/>
+  <testcase name="testCount" classname="com.hrs.MyStructureTestSuite" time="0.004"/>
+  <testcase name="testFindByCode" classname="com.hrs.MyStructureTestSuite" time="0.001"/>
+  <testcase name="testFindByRenderer" classname="com.hrs.MyStructureTestSuite" time="0.001"/>
+  <system-out><![CDATA[Node{code='C3', renderer='R3', nodes=[Node{code='C4', renderer='R4', nodes=[]}, Node{code='C5', renderer='R5', nodes=[Node{code='C6', renderer='R6', nodes=[]}, Node{code='C7', renderer='R7', nodes=[]}]}]}
+Node{code='C7', renderer='R7', nodes=[]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

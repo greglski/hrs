@@ -1,0 +1,2 @@
+ÎNode{code='C3', renderer='R3', nodes=[Node{code='C4', renderer='R4', nodes=[]}, Node{code='C5', renderer='R5', nodes=[Node{code='C6', renderer='R6', nodes=[]}, Node{code='C7', renderer='R7', nodes=[]}]}]}
+*Node{code='C7', renderer='R7', nodes=[]}
